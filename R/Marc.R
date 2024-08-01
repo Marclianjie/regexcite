@@ -22,4 +22,4 @@ use_r("strsplit1")
 #> ☐ Edit 'R/strsplit1.R'.
 #>
 load_all()
-#> ℹ Loading regexcite
+23#> ℹ Loading regexcite
