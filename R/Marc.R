@@ -22,4 +22,10 @@ use_r("strsplit1")
 #> ☐ Edit 'R/strsplit1.R'.
 #>
 load_all()
-23#> ℹ Loading regexcite
+#> ℹ Loading regexcite
+(x <- "alfa,bravo,charlie,delta")
+#> [1] "alfa,bravo,charlie,delta"
+str(strsplit1(x, split = ","))
+#> [1] "alfa"    "bravo"   "charlie" "delta"
+#>
+
