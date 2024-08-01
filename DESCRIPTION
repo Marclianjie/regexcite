@@ -1,5 +1,5 @@
 Package: regexcite
-Title: Make Regular Expressions More Exciting
+Title: Make Regular Expressions More Exciting!
 Version: 0.0.0.9000
 Authors@R: 
     person("Marc", "Shi", , "lianjies@student.ubc.ca", role = c("aut", "cre"),
